@@ -1,0 +1,1 @@
+[{"id":"4c993340.a1990c","type":"http request","z":"a950a755.fe9488","name":"","method":"GET","ret":"txt","paytoqs":false,"url":"http://api.mediatek.com/mcs/v2/devices/DSzzCNA2/datachannels/LEDControl/datapoints.csv","tls":"","persist":false,"proxy":"","authType":"","x":460,"y":320,"wires":[["3679681c.7645e8","e11c02aa.a917a"]]}]
